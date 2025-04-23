@@ -1,3 +1,17 @@
 .navbar-nav.ms-auto>li>a {
     color: white;
 }
+
+.banner-img{
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+    display: block;
+    
+}
+
+.banner-container{
+    width: 100vw;
+    height: 200px;
+}
